@@ -16,10 +16,10 @@
 ##
   
 <div style="display: inline_block">
-  <img align="center" src="https://user-images.githubusercontent.com/63216833/149433376-39eafca7-8d2c-4779-b005-7bdb51135e8f.png" width="50px" />
-  <img align="center" src="https://user-images.githubusercontent.com/63216833/149434038-64dbbcf2-9f2f-4347-b681-538d119bab00.png" width="40px" />
-  <img align="center" src="https://user-images.githubusercontent.com/63216833/149434597-643a2e59-24d1-4a53-890b-f9954b4fd6e7.png" width="40px" />
-  <img align="center" src="https://user-images.githubusercontent.com/63216833/149434636-4b514b08-5e63-4514-a32f-27bb90624615.png" width="40px" />
+  <img align="center" width="50px" src="https://user-images.githubusercontent.com/63216833/149433376-39eafca7-8d2c-4779-b005-7bdb51135e8f.png"/>
+  <img align="center" width="40px" src="https://user-images.githubusercontent.com/63216833/149434038-64dbbcf2-9f2f-4347-b681-538d119bab00.png"/>
+  <img align="center" width="40px" src="https://user-images.githubusercontent.com/63216833/149434597-643a2e59-24d1-4a53-890b-f9954b4fd6e7.png"/>
+  <img align="center" width="40px" src="https://user-images.githubusercontent.com/63216833/149434636-4b514b08-5e63-4514-a32f-27bb90624615.png"/>
 </div>
 
 ##
@@ -30,4 +30,4 @@
   <a href="mailto:alicebianchi2013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-  ![Snake animation](https://github.com/LiceB/LiceB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LiceB/LiceB/blob/output/github-contribution-grid-snake.svg)
