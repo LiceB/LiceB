@@ -1,21 +1,11 @@
-### Olá eu sou a Alice Bianchi
-
-- 🔭 Hoje estou a procura de um emprego
-- 🌱 Estudando Java e JavaScript
-- 🤔 Estou procurando ajuda com responsividade css
-- 📫 Contate-me no email: alicebianchi2013@gmail.com
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: gosto de artesanato e faço amigurumis, mas também sou apaixonada por tecnologia e programação
+## Oii eu sou a Alice Bianchi, apaixonada por arte e tecnologia
 
 <div align="center">
   <a href="https://github.com/LiceB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiceB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiceB&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<br>
-  
-<div align="center"><br>
+</div>  
+<div style="display: inline_block"><br>
   <img align="center" alt="Alice-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Alice-Js"height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt"Alice-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
