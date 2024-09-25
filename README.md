@@ -2,8 +2,8 @@
 
 Sou apaixonada por tecnologia e estou sempre me desenvolvendo. Ademais, espero que possa lhe contribuir com algum repositório útil.
 
-- 🔭 Estou estudando e colocando meus aprendizados em prática para adentrar no mercado de trabalho de desenvolvimento.
-- 🌱 Tenho conhecimento em JAVA e estou focado no momento em Flutter.
+- 🔭 Estou estudando: Angular, Nodejs, RESTful API.
+- 🌱 Tenho conhecimento em React e estou focado no momento em Angular.
 - ⚡ Sou apaixonado por programação e artesanato (amigurumi).
 
 <div align="center">
@@ -16,7 +16,7 @@ Sou apaixonada por tecnologia e estou sempre me desenvolvendo. Ademais, espero q
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Alice-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt"Alice-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Alice-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Alice-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Alice-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Alice-Sql-Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
@@ -26,7 +26,7 @@ Sou apaixonada por tecnologia e estou sempre me desenvolvendo. Ademais, espero q
   <img align="center" alt="Alice-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
   
-![Snake animation](https://github.com/LiceB/LiceB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/LiceB/LiceB/output/github-contribution-grid-snake-dark.svg)
   
 ## Contate-se comigo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
  
